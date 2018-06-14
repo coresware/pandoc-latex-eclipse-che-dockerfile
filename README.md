@@ -9,7 +9,7 @@ Y tomando como base "eclipse/stack-base:ubuntu" que puedes revisar en:
 
 https://github.com/eclipse/che-dockerfiles/blob/master/recipes/stack-base/ubuntu/
 
-Puedes ver un ejemplo de generación en la carpeta "Ejemplo".
+Puedes ver un ejemplo de generación de libros en la carpeta "ejemplo".
 En pasos generales primero hay que crear la imagen:
 
 ```
