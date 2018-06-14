@@ -9,7 +9,10 @@ Y tomando como base "eclipse/stack-base:ubuntu" que puedes revisar en:
 
 https://github.com/eclipse/che-dockerfiles/blob/master/recipes/stack-base/ubuntu/
 
-Puedes ver un ejemplo de generación de libros en la carpeta "ejemplo".
+Puedes ver un ejemplo de generación de libros en la carpeta "ejemplo":
+
+https://github.com/coresware/pandoc-latex-eclipse-che-dockerfile/tree/master/ejemplo
+
 En pasos generales primero hay que crear la imagen:
 
 ```
